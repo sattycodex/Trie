@@ -1,5 +1,5 @@
 # Trie
 Trie implementation
 
-#Structure of trie
-Basic node structure and implement operations on a Trie class
+<h3>Structure of trie</h3>
+<P>Basic node structure and implement operations on a Trie class</P>
